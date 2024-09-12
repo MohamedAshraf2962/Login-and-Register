@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341570401281",
+    "project_id": "elmentor1-e1210",
+    "storage_bucket": "elmentor1-e1210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341570401281:android:d84f3d849077764d58fc00",
+        "android_client_info": {
+          "package_name": "com.example.testslogreg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYS3DWRNuuY-t7vjlnyvdQ3mW7vrTbFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
